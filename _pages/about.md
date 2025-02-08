@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm an industrial PhD fellow in machine learning at the University of Copenhagen</a> 
+subtitle: I'm an industrial PhD fellow in machine learning at the University of Copenhagen
 and the Danish Finance Intelligence Unit (Hvidvasksekretariatet).
 
 profile:
