@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm an industrial PhD fellow in machine learning at the <a href='[#](https://di.ku.dk/english/research/machine-learning/)'>University of Copenhagen</a> 
-and the <a href='[#](https://hvidvask.dk/en)'> Danish Finance Intelligence Unit (Hvidvasksekretariatet) </a>.
+subtitle: I'm an industrial PhD fellow in machine learning at the <a href='[#](https://di.ku.dk/english/research/machine-learning/)'> University of Copenhagen</a> 
+and the <a href='[#](https://hvidvask.dk/en)'> Danish Finance Intelligence Unit (Hvidvasksekretariatet)</a>.
 
 profile:
   align: right
