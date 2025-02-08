@@ -6,7 +6,7 @@ subtitle: I'm an industrial PhD fellow in machine learning at the University of 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: seb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>seha@di.ku.dk</p>
