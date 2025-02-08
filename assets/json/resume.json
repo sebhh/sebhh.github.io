@@ -5,14 +5,7 @@
     "image": "",
     "email": "seha@di.ku.dk",
     "url": "https://sebhh.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "summary": "empty"
     "profiles": [
       {
         "network": "Linkedin",
@@ -48,8 +41,8 @@
       "name": "University of Copenhagen",
       "position": "Teaching Assistant, Advanced Algoritms and Data Structures (M.Sc course)",
       "website": "https://kurser.ku.dk/course/ndaa09023u",
-      "startDate": "2019-12-01",
-      "endDate": "2023-06-01",
+      "startDate": "2022-11-01",
+      "endDate": "2023-01-31",
       "summary": ""
     }
   ],
@@ -58,7 +51,7 @@
       "institution": "University of Copenhagen, Department of Computer Science, Machine Learning section",
       "location": "Copenhagen",
       "url": "https://di.ku.dk/english/research/machine-learning/",
-      "studyType": "Industrial PhD",
+      "studyType": "Industrial PhD fellow",
       "startDate": "2024-08-01"
     },
     {
@@ -73,8 +66,8 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "studyType": "Exchange semester @ NUS Computing",
-      "startDate": "2020-01-01",
-      "endDate": "2019-08-01"
+      "startDate": "2019-08-01",
+      "endDate": "2020-01-01"
     },
     {
       "institution": "University of Copenhagen, Department of Computer Science",
