@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm an industrial PhD fellow in machine learning at the <a href='[#](https://di.ku.dk/english/research/machine-learning/)'> University of Copenhagen</a> 
-and the <a href='[#](https://hvidvask.dk/en)'> Danish Finance Intelligence Unit (Hvidvasksekretariatet)</a>.
+subtitle: I'm an industrial PhD fellow in machine learning at the University of Copenhagen</a> 
+and the Danish Finance Intelligence Unit (Hvidvasksekretariatet).
 
 profile:
   align: right
@@ -28,4 +28,4 @@ latest_posts:
 
 My research centers on trade-based money laundering and how to detect it using machine learning, with a particular focus on graph-based machine learning approaches. I have a varied background in computer science, finance, anti-money laundering, and natural language processing. 
 
-My PhD project, _Detecting Trade Based Money Laundering through Machine Learning_, is funded by the [https://innovationsfonden.dk/en](Innovation Fund Denmark). At UCPH, I'm supervised by [https://di.ku.dk/english/staff/vip/?pure=en/persons/440348] (Oswin Krause) and [https://raghavian.github.io/] Raghavendra Selvan). At the Danish Finance Intelligence Unit, I'm supervised by Dorte Hermansen. 
+My PhD project, _Detecting Trade Based Money Laundering through Machine Learning_, is funded by the [https://innovationsfonden.dk/en](Innovation Fund Denmark). At [https://di.ku.dk/english/research/machine-learning/] (UCPH), I'm supervised by [https://di.ku.dk/english/staff/vip/?pure=en/persons/440348] (Oswin Krause) and [https://raghavian.github.io/] Raghavendra Selvan). At the [https://hvidvask.dk/en] (Danish Finance Intelligence Unit), I'm supervised by Dorte Hermansen. 
