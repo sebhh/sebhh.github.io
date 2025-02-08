@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm an industrial PhD fellow in machine learning at the University of Copenhagen
-and the Danish Finance Intelligence Unit (Hvidvasksekretariatet).
+subtitle: I'm an industrial PhD fellow in machine learning at the University of Copenhagen and the Danish Finance Intelligence Unit (Hvidvasksekretariatet).
 
 profile:
   align: right
