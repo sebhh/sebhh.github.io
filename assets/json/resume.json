@@ -34,7 +34,7 @@
       "startDate": "2023-07-01",
       "endDate": "2024-08-01",
       "website": "https://hvidvask.dk",
-      "summary": "",
+      "summary": ""
     },
     {
       "name": "Capital Four Asset Management",
@@ -42,17 +42,16 @@
       "startDate": "2019-12-01",
       "endDate": "2023-06-01",
       "website": "https://www.capital-four.com/",
-      "summary": "",
+      "summary": ""
     },
     {
       "name": "University of Copenhagen",
       "position": "Teaching Assistant, Advanced Algoritms and Data Structures (M.Sc course)",
-      "website": "https://kurser.ku.dk/course/ndaa09023u"
+      "website": "https://kurser.ku.dk/course/ndaa09023u",
       "startDate": "2019-12-01",
       "endDate": "2023-06-01",
-      "summary": "",
+      "summary": ""
     }
-  ]
   ],
   "education": [
     {
@@ -60,7 +59,7 @@
       "location": "Copenhagen",
       "url": "https://di.ku.dk/english/research/machine-learning/",
       "studyType": "Industrial PhD",
-      "startDate": "2024-08-01",
+      "startDate": "2024-08-01"
     },
     {
       "institution": "University of Copenhagen, Department of Computer Science",
@@ -98,3 +97,4 @@
       "icon": ""
     }
   ]
+}
