@@ -1,0 +1,17 @@
+---
+title: "Your paper title goes here"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-01-01-example-publication
+excerpt: 'One-sentence summary of what the paper is about.'
+date: 2026-01-01
+venue: 'Journal or conference name'
+paperurl: 'https://sebhh.github.io/files/paper1.pdf'
+citation: 'Holmby Hansen, S. (2026). &quot;Your paper title.&quot; <i>Journal or conference name</i>.'
+---
+
+<!-- SEBASTIAN: to add another publication, duplicate this file, rename it
+     (YYYY-MM-DD-short-slug.md), and update the fields above.
+     category must be one of: books, manuscripts, conferences (set in _config.yml). -->
+
+A short abstract or description of the paper can go here. This text appears on the publication's own page, below the citation.
