@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- SEBASTIAN: fill in your real education, experience, and skills below. -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in [Your Field], University of Copenhagen, [expected year]
+* M.S. in [Your Field], [Your University], [year]
+* B.S. in [Your Field], [Your University], [year]
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [Start] – present: Industrial PhD Student
+  * Danish Financial Intelligence Unit
+  * Duties included: describe your role here
+  * Supervisor: [Name]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [Dates]: [Previous role]
+  * [Organization]
+  * Duties included: [description]
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Skill 1]
+* [Skill 2]
+  * [Sub-skill 2.1]
+  * [Sub-skill 2.2]
+* [Skill 3]
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Optional: committees, reviewing, organizing, etc.]
