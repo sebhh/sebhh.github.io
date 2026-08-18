@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Temp
 <!-- SEBASTIAN: fill in your real education, experience, and skills below. -->
-
+<!--
 Education
 ======
 * Ph.D in [Your Field], University of Copenhagen, [expected year]
@@ -42,6 +43,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Service and leadership-->
 ======
 * [Optional: committees, reviewing, organizing, etc.]
