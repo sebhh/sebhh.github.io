@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Sebastian Holmby Hansen"
   pronouns         : # example: "she/her"  
-  bio              : "Industrial PhD student @ University of Copenhagen and the Danish FIU"
+  bio              : "Industrial PhD student in machine learning for money laundering"
   location         : "Copenhagen"
-  employer         : "Red Brick University"
+  employer         : "University of Copenhagen, FIU Denmark"
   uri              : # URL
   email            : "seha@di.ku.dk" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0001-3774-4340"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
