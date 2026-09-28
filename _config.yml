@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.jpg"
+  avatar           : "sebastianholmby_portrait_bw.jpg"
   name             : "Sebastian Holmby Hansen"
   pronouns         : # example: "she/her"  
   bio              : "Industrial PhD student in machine learning for anti-money laundering"
